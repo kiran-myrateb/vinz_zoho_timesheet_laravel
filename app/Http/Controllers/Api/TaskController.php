@@ -393,7 +393,6 @@ class TaskController extends Controller
         curl_close($ch);
         Log::Info(["access_token_Data" => $response]);
 
-
         $response = json_decode($response);
         Log::Info(["access_token_Data" => $response]);
 
