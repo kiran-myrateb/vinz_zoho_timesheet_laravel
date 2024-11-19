@@ -1,0 +1,2 @@
+owner,formId,nonbillableHours,employeeName,erecno,totalHours,toDate,description,employeeEmail,approvedBillableHours,employeeId,billableHours,recordId,listId,fromDate,totalAmount,approvedNonBillableHours,approvedRatePerHour,approvedTotalAmount,ratePerHour,timesheetName,currency,approvedTotalHours,status
+67398000001791001,67398000000118001,00:00,"KIRAN MULI",67398000001791001,33:00,13-Apr-2024,,kiran.muli@vinzglobal.com,33:00,00070,33:00,67398000003152126,67398000003152126,07-Apr-2024,,00:00,,,,"Timesheet (07-04-2024 - 13-04-2024)",USD,33:00,Approved
